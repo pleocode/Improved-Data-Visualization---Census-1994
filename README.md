@@ -23,3 +23,7 @@ python main.py
 Run the above command to star the app and follow the instructions on screen. 
 To navigate on the App, use the arrow keys on your keyboard.
 
+![](PopulationDescription)
+![](GenderAnalysis)
+![](IncomeAnalysis)
+![](EthnicityAnalysis)
